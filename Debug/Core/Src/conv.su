@@ -1,0 +1,4 @@
+conv.c:3:6:get_digit_char	16	static
+conv.c:11:6:intToChar	16	static
+conv.c:40:7:intToStr	40	static
+conv.c:78:6:int_to_str	48	static
